@@ -45,10 +45,11 @@ overflow: visible;
 .input-area::-webkit-input-placeholder {
   color: white;
 }
-@media (max-width: 900px) {
+@media (max-width: 990px) {
     .background-img{
       transform: translate(-70%, -48%); } 
       .navbar>.container-fluid{
         justify-content:center;
         padding: auto 50px;
-       }}
+       }
+      }
