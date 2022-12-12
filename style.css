@@ -45,6 +45,9 @@ overflow: visible;
 .input-area::-webkit-input-placeholder {
   color: white;
 }
+textarea:focus, input:focus{
+  outline: none;
+}
 @media (max-width: 990px) {
     .background-img{
       transform: translate(-70%, -48%); } 
